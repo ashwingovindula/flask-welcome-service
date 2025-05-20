@@ -26,5 +26,5 @@ jobs:
       with:
         context: .
         push: true
-        tags: ashwigovindula/flask-welcome:latest
+        tags: ashwingovindula/flask-welcome:latest
 
